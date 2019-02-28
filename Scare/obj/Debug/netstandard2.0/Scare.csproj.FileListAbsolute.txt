@@ -1,0 +1,12 @@
+/Users/aluno/Projects/Scare/Scare/bin/Debug/netstandard2.0/Scare.deps.json
+/Users/aluno/Projects/Scare/Scare/bin/Debug/netstandard2.0/Scare.dll
+/Users/aluno/Projects/Scare/Scare/bin/Debug/netstandard2.0/Scare.pdb
+/Users/aluno/Projects/Scare/Scare/obj/Debug/netstandard2.0/Scare.csprojAssemblyReference.cache
+/Users/aluno/Projects/Scare/Scare/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Projects/Scare/Scare/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Projects/Scare/Scare/obj/Debug/netstandard2.0/Scare.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/Scare/Scare/obj/Debug/netstandard2.0/Scare.AssemblyInfoInputs.cache
+/Users/aluno/Projects/Scare/Scare/obj/Debug/netstandard2.0/Scare.AssemblyInfo.cs
+/Users/aluno/Projects/Scare/Scare/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Projects/Scare/Scare/obj/Debug/netstandard2.0/Scare.dll
+/Users/aluno/Projects/Scare/Scare/obj/Debug/netstandard2.0/Scare.pdb
