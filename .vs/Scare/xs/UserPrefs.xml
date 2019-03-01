@@ -1,24 +1,30 @@
 ﻿<Properties StartupConfiguration="{0258F8A9-07C9-4F60-885B-C2CE259FF4FC}|Default">
   <MonoDevelop.Ide.ItemProperties.Scare.iOS FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.Scare.Android FirstBuild="True" PreferredExecutionTarget="Android.5711d61d" />
+  <MonoDevelop.Ide.ItemProperties.Scare.Android PreferredExecutionTarget="Android.5711d61d" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Scare/MainPage.xaml">
     <Files>
-      <File FileName="Scare/MainPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="Scare/MainPage.xaml" Line="7" Column="15" />
+      <File FileName="Scare/MainPage.xaml.cs" Line="29" Column="31" />
+      <File FileName="Scare/MainPage.xaml" Line="21" Column="9" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Scare" expanded="True">
-            <Node name="Scare" expanded="True">
-              <Node name="MainPage.xaml" selected="True" />
+            <Node name="Scare" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+                <Node name="SdkDependencies" expanded="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="Scare.Android" expanded="True">
+              <Node name="Assets" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Scare FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

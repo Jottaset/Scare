@@ -4,6 +4,7 @@
              xmlns:local="clr-namespace:Scare"
              x:Class="Scare.MainPage">
     
+    
     <StackLayout>
         <!-- Place new controls here -->
         <Label Text="Agora Sim!!!"
@@ -12,8 +13,11 @@
                HorizontalOptions="Center"
                VerticalOptions="CenterAndExpand"
                x:Name="label_mensagem"
+               
                />
         
+        
+        <Image  x:Name ="img" />
         
         <Button Text="Click"
                 FontSize="15"
@@ -22,7 +26,8 @@
                 VerticalOptions="CenterAndExpand"
                 x:Name="button_scare"
                 Clicked="Handle_Clicked"
-        
+                
                />
+        
     </StackLayout>
 </ContentPage>

@@ -16,18 +16,20 @@ namespace Scare
         void Handle_Clicked(object sender, System.EventArgs e)
         {
             var player = CrossSimpleAudioPlayer.Current;
-            player.Load("sequencia_de_tiros.mp3");
+            player.Load("tarzan.mp3");
 
             cont++;
 
             label_mensagem.Text = "Vc Clicou " + cont + " vezes";
 
-            if (cont ==10)
+            if (cont == 5)
             {
                 player.Play();
-                label_mensagem.Text = "Buhhhh";
+                //label_mensagem.Text = "";
+                img.Source = "https://systemmastery.files.wordpress.com/2014/07/tarzan-poster.jpg";
                 cont = 0;
             }
+                
         }
 
         public MainPage()
